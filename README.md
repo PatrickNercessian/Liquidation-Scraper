@@ -5,4 +5,13 @@ TODO:
 
   - Ensure duplicate proxies are not being added
   - Need to check each item if it can be sold on Amazon before calculating expected sales
-  - Make simple UI with progress bar
+  - \*User Interface
+  
+  
+User Interface:
+
+  - Progress Bars based on either proxy gathering, lot gathering, or lot-amazon calculations
+  - Pause, Stop, Resume buttons for each task
+  - Be able to view current state (list of proxies, gathered lots, calculated lots)
+  - Lot Calculation Results should be very intuitive: Easy profit numbers, best items listed first, links to manifests and amazon listings, click on lots/items to expand their info
+  - Maybe use a third-party String comparison algorithm to check how similar the titles
