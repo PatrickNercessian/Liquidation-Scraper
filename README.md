@@ -5,6 +5,7 @@ TODO:
 
   - Ensure duplicate proxies are not being added
   - Need to check each item if it can be sold on Amazon before calculating expected sales
+  - MAYBE: Every 24 hours, program runs and emails me the best lots
   - \*User Interface
   
   
