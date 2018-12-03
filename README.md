@@ -8,7 +8,7 @@ TODO:
   - \*User Interface
   
   
-User Interface:
+\*User Interface:
 
   - Progress Bars based on either proxy gathering, lot gathering, or lot-amazon calculations
   - Pause, Stop, Resume buttons for each task
