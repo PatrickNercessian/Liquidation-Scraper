@@ -10,7 +10,7 @@ TODO:
   
 \*User Interface:
 
-  - Progress Bars based on either proxy gathering, lot gathering, or lot-amazon calculations
+  - Progress Bars based on either proxy gathering, lot gathering, or lot-amazon calculations (maybe add some cool sounds)
   - Pause, Stop, Resume buttons for each task
   - Be able to view current state (list of proxies, gathered lots, calculated lots)
   - Lot Calculation Results should be very intuitive: Easy profit numbers, best items listed first, links to manifests and amazon listings, click on lots/items to expand their info
